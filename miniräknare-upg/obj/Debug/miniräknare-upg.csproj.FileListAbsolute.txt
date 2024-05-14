@@ -1,0 +1,10 @@
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\bin\Debug\miniräknare-upg.exe.config
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\bin\Debug\miniräknare-upg.exe
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\bin\Debug\miniräknare-upg.pdb
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare-upg.csproj.AssemblyReference.cache
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare_upg.FormMiniräknare.resources
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare_upg.Properties.Resources.resources
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare-upg.csproj.GenerateResource.cache
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare-upg.csproj.CoreCompileInputs.cache
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare-upg.exe
+G:\Min enhet\programmering 2\miniräknare-upg\miniräknare-upg\obj\Debug\miniräknare-upg.pdb
