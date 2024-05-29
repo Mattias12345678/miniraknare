@@ -1,0 +1,6 @@
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\programmering_2_uppg.Program.resources
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\Min enhet\programmering 2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
